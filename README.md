@@ -8,9 +8,9 @@
 
 ![https://imgur.com/UsE1etg](https://tof.cx/images/2019/05/20/9eeb6b0fcb491a3de450f7ec62b2980b.png)
 
-➡️[Screenshot / maquette](https://imgur.com/UsE1etg)⬅️
+➡️ [Screenshot / maquette](https://imgur.com/UsE1etg) ⬅️
 
-➡️[Lien production (alternatif)](https://mijkami.github.io/story06/)⬅️
+➡️ [Lien production (alternatif)](https://mijkami.github.io/story06/) ⬅️
 
 # Sommaire
 
@@ -34,7 +34,7 @@
 
 "Le projet de plateforme devait démarrer plus tard. L'occasion d'un bus sillonnant la région permettant potentiellement d'amener une visibilité au projet (contacts, etc...) a accéléré l'avancement de ce dernier. Le projet (parallèle) "bus de l'apprentissage" démarre le 13/05/19."
 
-Le projet correspond à une demande concrête du centre de formation, avec des besoins réels et un temps imparti limité.
+Le projet correspond à une demande concrète du centre de formation, avec des besoins réels et un temps imparti limité.
 
 
 ### Critères

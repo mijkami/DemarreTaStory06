@@ -1,0 +1,250 @@
+@font-face {
+    font-family: "RockSalt";
+    src: url(RockSalt.ttf) format("truetype");
+}
+
+.navbar-brand {
+    max-height:50px;
+}
+header .row {
+    margin-top: 50px;
+    background-image: url(../img/banniere.png);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    font-family: RockSalt;
+    flex-wrap: nowrap;
+    color:white;
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 80%);
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 80%);
+}
+header .frmInscription {
+    background-color: rgba(0,0,0,0.5);
+    min-height:70vh;
+}
+header h1 {
+    font-family: 'Raleway', sans-serif;
+}
+header h2 {
+    font-family: 'Dancing Script', cursive;
+    margin-bottom:50px;
+}
+header .msg {
+    display:flex;
+    height:70vh;
+    align-items:flex-end;
+    justify-content:flex-end;
+}
+@media (max-width: 768px) {
+    header .msg {
+        display:none;
+    }
+}
+
+#presentation {
+    margin-top: 70px;
+}
+#presentation .media span{
+   /* color: #61bfd8;*/
+    font-size:3rem;
+    width:4rem;
+    text-align:center;
+}
+#presentation .media {
+    padding:0.5rem 1rem;
+    transition:all .3s ease-in-out;
+    border-radius:3px;
+}
+#presentation .media:hover {
+    background-color:#c5b4b4;
+ /*   cursor:pointer; */
+}
+
+.parcoursEtudiant {
+    background-color:#d3dae4;
+    min-height:calc(100vh - 50px);
+
+}
+.parcoursEtudiant span{
+    font-size:5rem;
+    color:#17a2b8;
+}
+.parcoursEtudiant h5{
+    font-size:2rem;
+    color:#888;
+}
+#parcours{
+       }
+.fondSchema {
+    
+}
+.fondSchema img{
+	width: 100%;
+	height: auto;
+}
+@media (max-width: 768px) {
+    header .msg {
+        display:none;
+    }
+}
+
+
+/*css anaelle bouton*/
+
+.buttonInscription{
+    font-family: 'Allerta Stencil', sans-serif;
+    letter-spacing: 0.063em;
+    font-size: 2.2em;
+    font-weight: bolder;
+    border-radius: 17px;
+    background-color: #2D71C9;
+    color: white;
+    font-weight: 900;
+    line-height: 1.2;
+    border: none;
+    box-shadow: 4px 4px 0px 0px #AAB6C8;
+    width: 300px;
+    height: 50px;
+    left: 36%;
+    top: 260px;
+}
+
+.buttonInscription:hover {
+     background-color:#1351ae ;
+}
+
+#wordHook{
+    font-family: 'Nothing You Could Do', cursive;
+    text-shadow:0 0 -1px black;
+    letter-spacing:0.063em;
+    font-size:1.1em;
+    font-weight:bolder;
+    color:#DBEB12;
+    position:absolute;
+    top: 33px;
+    left: 44%;
+} 
+
+#logo a{
+    position: absolute;
+    left: 40%;
+    top: 40%;
+}
+
+#triangle{
+    position: absolute;
+    width: 200px;
+    left: 31%;
+    top: 0px;
+}
+
+#blockLogo{
+    top:190px;
+}
+#logo {
+    height: 150px;
+    padding-top: 30px;
+    text-align: center;
+  }
+@media (max-width : 950px){
+    #wordHook{
+    left:56%;
+}
+}
+@media (max-width : 757px){
+    #wordHook{
+    left:60%;
+    top: 32px;
+}
+}
+@media (max-width : 737px){
+    #wordHook{
+    display:none;
+}
+}
+
+@media (max-width:414px){
+    #wordHook{
+        display: none;
+        }
+    #triangle{
+        display:none;
+        }
+
+    .buttonInscription{
+        width: 200px;
+        height:36px;
+        text-align:center;
+        font-size:1.1em;
+        left:50%;
+        background-color:#00c999;
+    }
+    #logo{
+        height: 61px;
+    }
+}
+
+
+   #stories {
+        margin-top: 150px;
+    }
+        
+ 
+		/*css younes footer*/
+		.footer{
+    background-image: linear-gradient(to right top, #1351ae, #0085db, #00b1c8, #00d580, #a8eb12);
+	}
+	a {
+	    color: #001654; 
+	}
+	.divblack {
+	    font-size: 17px;
+	}
+	.index {
+	    position: absolute;
+	    width: 100%;
+	}
+    .item {
+    margin: 10px;
+    height: 110px;
+    width: 110px;
+}
+
+.whiteTex {       font-size:20px;        text-shadow:0 0 -1px black;       color: white;   }
+
+/***** Modal *****/
+ 
+.modal-backdrop.in {
+    filter: alpha(opacity=7);
+    opacity: 0.7;
+}
+ 
+.modal-content {
+    background: none;
+    border: 0;
+    -moz-border-radius: 0; -webkit-border-radius: 0; border-radius: 0;
+    -moz-box-shadow: none; -webkit-box-shadow: none; box-shadow: none;
+}
+ 
+.modal-body {
+    padding: 0 25px 25px 25px;
+}
+ 
+.modal-header {
+    padding: 25px 25px 15px 25px;
+    text-align: right;
+}
+ 
+.modal-header, .modal-footer {
+    border: 0;
+}
+ 
+.modal-header .close {
+    float: none;
+    margin: 0;
+    font-size: 36px;
+    color: #fff;
+    font-weight: 300;
+    text-shadow: none;
+    opacity: 1;
+}

@@ -91,7 +91,7 @@ Trello n'était pas un outil connu par tous les membres du groupe et n'aura ét�
 
 Le serveur Discord a offert au groupe un moyen commun de communication permettant de s'organiser en dehors des heures allouées à la formation, ainsi que la possibilité de discuter vocalement si besoin. Ce dernier a aussi représenté un outil de communication auquel tous les membres étaient habitués.
 
-Aucun outil de versionning n'a été utilisé, une partie des membres du groupe n'étant pas encore initiés et habitués à la manipulation de git (+ repositories, gestion des branches), il a été décidé par le groupe que le temps limité imparti et l'apparente "simplicité" du projet (vis-à-vis du nombre de pages & absence de back-end) ne permettaient pas au groupe de dédier une partie du temps à harmoniser les compétences de chacun sur ce point précis, qui aura au final été évité.
+Aucun outil de versionning n'a été utilisé : une partie des membres du groupe n'étant pas encore initiés et habitués à la manipulation de git (+ repositories, gestion des branches), il a été décidé par le groupe que le temps limité imparti et l'apparente "simplicité" du projet (vis-à-vis du nombre de pages & absence de back-end) ne permettaient pas de dédier une partie du temps à harmoniser les compétences de chacun sur ce point précis, qui aura au final été évité.
 
 
 # Amélioration

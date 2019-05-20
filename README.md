@@ -23,10 +23,10 @@ ______               ____  ___
 
 🚡Projet Express☄️ visant à réaliser en groupe un site promouvant l'apprentissage :
 	
-	- **cadre** : formation "Développement web & mobile" à l'ICS de la Chambre de Commerce de Nice
-	- **[groupe](#Groupe)** : groupe de 7 personnes (1/3 de la classe, 3 groupes en "concurrence")
-	- **durée** : 16-20 heures allouées du 7 au 10 Mai, rendu obligatoire le 10
-	- **restitution** : la restitution initiale a eu lieu le vendredi 10 Mai 2019 (le projet ici-présent a été plébiscité pour sa clarté, la mise en avant du bouton d'inscription et le rappel de la charte graphique du projet global auquel il se rattache)
+- **cadre** : formation "Développement web & mobile" à l'ICS de la Chambre de Commerce de Nice
+- **[groupe](#Groupe)** : groupe de 7 personnes (1/3 de la classe, 3 groupes en "concurrence")
+- **durée** : 16-20 heures allouées du 7 au 10 Mai, rendu obligatoire le 10
+- **restitution** : la restitution initiale a eu lieu le vendredi 10 Mai 2019 (le projet ici-présent a été plébiscité pour sa clarté, la mise en avant du bouton d'inscription et le rappel de la charte graphique du projet global auquel il se rattache)
 
 
 ### Pitch initial

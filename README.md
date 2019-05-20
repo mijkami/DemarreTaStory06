@@ -102,4 +102,4 @@ Pour le projet : les membres du groupe sont unanimes : tous étaient satisfaits 
 
 Pour le scrum-master : les avis varient entre "une conduite/direction appropriée" et "parfois un peu autoritaire", dernier élément ressenti par quelques membres durant le (c)rush final.
 
-À noter que recueillir une auto-évaluation est difficile dans le temps limité imparti, d'autant plus pour des avis à propos d'une personne précise est toujours difficile (zone grise entre tact et franchise), nous avons malgré cela tous essayé de faire preuve de franchise lors de cette micro-évaluation pour permettre aux autres d'apprendre un maximum de l'expérience vécue !
+À noter que recueillir une auto-évaluation est difficile dans le temps limité imparti, d'autant plus pour des avis à propos d'une personne précise (zone grise entre tact et franchise). Nous avons malgré cela tous essayé de faire preuve de franchise lors de cette micro-évaluation pour permettre aux autres d'apprendre un maximum de l'expérience vécue !

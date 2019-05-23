@@ -122,10 +122,10 @@ Divers axes d'amélioration pour le site :
 
 # Summary
 
-- [Introduction](#Introduction-🇬🇧)
+- [Introduction](#Introduction-)
 - [Group](#Group)
 - [Method](#Method)
-- [Areas of improvement](Areas-of-improvement)
+- [Areas of improvement](#Areas-of-improvement)
 
 
 # Introduction 🇬🇧

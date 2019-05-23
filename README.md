@@ -91,11 +91,13 @@ Dimitri a mis en place et invité tous les membres sur 2 plateformes :
 - une page de projet [Trello](https://imgur.com/PNZAdEF)
 - un serveur Discord
  
-Trello n'était pas un outil connu par tous les membres du groupe et n'aura été utilisé que de manière partielle (jugée suffisante par le groupe dans un premier temps), permettant de suivre l'affectation et l'avancement de chacun. Les catégories/colonnes principales mises en places ont été dans l'ordre : "Backlog" => "To Do (today)" => "Doing" => "Test" => "Done".
+**Trello** n'était pas un outil connu par tous les membres du groupe et n'aura été utilisé que de manière partielle (jugée suffisante par le groupe dans un premier temps), permettant de suivre l'affectation et l'avancement de chacun. Les catégories/colonnes principales mises en places ont été dans l'ordre : "Backlog" => "To Do (today)" => "Doing" => "Test" => "Done".
 
-Le serveur Discord a offert au groupe un moyen commun de communication permettant de s'organiser en dehors des heures allouées à la formation, ainsi que la possibilité de discuter vocalement si besoin. Ce dernier a aussi représenté un outil de communication auquel tous les membres étaient habitués.
+Le serveur **Discord** a offert au groupe un moyen commun de communication permettant de s'organiser en dehors des heures allouées à la formation, ainsi que la possibilité de discuter vocalement si besoin. Ce dernier a aussi représenté un outil de communication auquel tous les membres étaient habitués.
 
-Aucun outil de versionning n'a été utilisé : une partie des membres du groupe n'étant pas encore initiés et habitués à la manipulation de 'git' (+ repositories, gestion des branches) : il a été décidé par le groupe que le temps limité imparti et l'apparente "simplicité" du projet (vis-à-vis du nombre de pages & absence de back-end) ne permettaient pas de dédier une partie du temps à harmoniser les compétences de chacun sur ce point précis, qui aura au final été évité.
+**Aucun outil de versionning n'a été utilisé** : une partie des membres du groupe n'étant pas encore initiés et habitués à la manipulation de 'git' (+ repositories, gestion des branches) : il a été décidé par le groupe que le temps limité imparti et l'apparente "simplicité" du projet (vis-à-vis du nombre de pages & absence de back-end) ne permettaient pas de dédier une partie du temps à harmoniser les compétences de chacun sur ce point précis, qui aura au final été évité.
+
+En dernier outil commun, nous avons décidé au début d'utiliser **Bootstrap** (ayant eu une introduction dessus plus tôt la même semaine). L'outil n'était malheureusement pas maîtrisé par le groupe (le choix même si il était commun, a été apparemment non-entendu voire oublié initialement pour certains, voire abandonné complètement), ce qui aura aussi causé ses propres soucis pour harmoniser le travail à la fin.
 
 ### Méthode agile
 
@@ -116,6 +118,8 @@ En fin de projet, les membres ont pris un (court) temps pour tenter d'analyser l
 Pour le projet : les membres du groupe sont unanimes : tous étaient satisfaits de la réalisation du groupe malgré l'état de fatigue générale, pointant un système d'organisation expérimentant comme une nouveauté intéressante pour certains d'entre eux (en comparaison avec leurs expériences passées).
 
 Pour le scrum-master : les avis varient entre "une conduite/direction appropriée" et "parfois un peu autoritaire", dernier élément ressenti par quelques membres durant le (c)rush final.
+
+L'accord initial des membres du groupe sur les tâches spécifiques et les outils ne semblait pas assez solide au vu des oublis et/ou évitement vis-à-vis des objets choisis de manière commune (spécifiquement bootstrap). Choisir et confirmer des outils (voire choisir ultérieurement de changer de méthode) et processus de travail semble demander une communication plus efficace dans les deux sens. L'évitement peut aussi pointer une difficulter à identifier et oraliser les difficultés (équipe et scrum compris).
 
 À noter que recueillir une auto-évaluation est difficile dans le temps limité imparti, d'autant plus pour des avis à propos d'une personne précise (zone grise entre tact et franchise). Nous avons malgré cela tous essayé de faire preuve de franchise lors de cette micro-évaluation pour permettre aux autres d'apprendre un maximum de l'expérience vécue !
 
@@ -208,15 +212,18 @@ Dimitri arranged and invited all the members on 2 platforms:
 - a Discord server
 
 
-Trello wasn't known as a tool to each member of the group and have been used only partially (its was first judged as enough usage by the members of the but that perspective changed later), allowing to follow everyone's role and progression. The main categories/columns were in order : "Backlog" => "To Do (today)" => "Doing" => "Test" => "Done".
+**Trello** wasn't known as a tool to each member of the group and have been used only partially (its was first judged as enough usage by the members of the but that perspective changed later), allowing to follow everyone's role and progression. The main categories/columns were in order : "Backlog" => "To Do (today)" => "Doing" => "Test" => "Done".
 
-The Discord server gave to the group a communication platform allowing to organise work between members outside of the in-site hours (needless to say, online communication is less important when working within the training center). It also allowed to communicate verbally when needed. This specific tool was known to each member of the group.
+The **Discord** server gave to the group a communication platform allowing to organise work between members outside of the in-site hours (needless to say, online communication is less important when working within the training center). It also allowed to communicate verbally when needed. This specific tool was known to each member of the group.
 
-No versionning tool (like the git/github combo) have been used : a large proportion of the group didn't learn to use one yet and wasn't familiar with the use of 'git' (including repositories and branch management) : the group concluded that the very limited given time for the project and the seemingly "simplicity" of it (regarding the number of pages needed & the absence of back-end) wouldn't allow to dedicate any time to adjust everyone's skills on that specific topic, avoided in the end.
+**No versionning tool (like** the **git/github** combo) have been used : a large proportion of the group didn't learn to use one yet and wasn't familiar with the use of 'git' (including repositories and branch management) : the group concluded that the very limited given time for the project and the seemingly "simplicity" of it (regarding the number of pages needed & the absence of back-end) wouldn't allow to dedicate any time to adjust everyone's skills on that specific topic, avoided in the end.
+
+Last but not least shared tool that we used : **Bootstrap** (we all had a quick introduction about it earlier the same week). This specific tool / framework wasn't mastered yet by the group (even the choice itself wasn't seemingly understood/remembered by all of us initially, and have been left aside sometimes), which brought its own problems to standardise everything in the final 'integration' process.
+
 
 ### Agile Method
 
-Regarding the Agile Method, the beginning with the 'user-stories', 'wireframes' and the identification and sharing of tasks helped the group to start comfortably.
+Regarding the **Agile Method**, the beginning with the 'user-stories', 'wireframes' and the identification and sharing of tasks helped the group to start comfortably.
 
 The time management of everyone along the way have been difficult though, especially towards the end when the overall given time appeared as quite short (or rather the evaluation / management of time was lacking).
 
@@ -230,6 +237,8 @@ At the end of the project, the members tooka (short) tume to try to analyze thei
 For the project itself : the members were unanimous on a specific point ; that they were satisfied with the outcome despite the general weariness, highlighting a unknown organisation system that was first experimented as an interesting novelty for some of them (and then discussed later differently as shown in the [Tools/Agile Method chapter](#Agile-method)) when comparing it with their past experiences.
 
 For the scrum-master : opinions vary netwee, "an appropriate direction" and "sometimes a little bit authoritative". The last element was felt by some members during the final (c)rush.
+
+Initial agreement of people on specific tasks or tools wasn't 'actual' agreement as it was forgotten and/or ignored along the path (bootstrap specifically). Chosing and confirming working tools and process may need more effective communication from both ends (that may also take the form of chosing later on together to change the initial method to adapt to the situation). Ignoring/dodging could also show a difficulty to identify and speak aloud about difficulties (team and scrum included)
 
 It's worth noting that making a self-appraisal is difficult within a limited time, even more about stating opinions about a specific person (grey area between tactfulness and honesty). Nonetheless we all tried our best to be honest with our micro-evaluation to allow others to maximize the lessons from this experience !
 

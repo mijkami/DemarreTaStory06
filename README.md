@@ -15,7 +15,7 @@
 # Pick your language !
 
 - [🇫🇷 français](#Sommaire)
-- [🇬🇧 english](#Summary)
+- [🇬🇧 english](#Summary-)
 
 # Sommaire
 
@@ -117,10 +117,11 @@ Divers axes d'amélioration pour le site :
 
 
 
-=================================================
+==========================================================
+==========================================================
 
 
-# Summary
+# Summary 🇬🇧
 
 - [Introduction](#Introduction-)
 - [Group](#Group)
@@ -160,7 +161,6 @@ The project matches with a real demand from our training center, with real needs
 Young people wanting to start an apprenticeship, either with already an existing personal project, or without yet a clear idea of their objective. The goal being to promote a supporting service and to assist their project (up to starting to work in a company). There's also an idea of 3 different supporting routes leading to starting a training course.
 
 
-
 # Group
 
 - Anaëlle : design and realisation of the central registration button
@@ -172,8 +172,23 @@ Young people wanting to start an apprenticeship, either with already an existing
 - Dimitri (Mijka) : scrum-master & project-leader + graphic designer (producing elements for the banner, youtube preview, logos & footer)
 
 
-
 # Method
+
+### Beginning
+
+After the (randomly chosen) gathering of the members of the group, the organisation have been the first topic discussed by the group. We all selected an "agile" method, Dimitri being accepted by the group to take the scrum-master role.
+
+ ### Research phase
+
+Everyone took note of the requirements and needs of the project, then the group started to search examples and models of promotional website suiting the "one-page" type for 40 minutes. The goal being to differentiate the existing possibilities that could guide our approach with its examples and counterexamples.
+
+ ### Wireframe
+
+ After the presentation and discussion about the outcome of everyone's research, we started to realize together a "wireframe" (simplistic) version of the website, working with its mobile and desktop versions through short 'user-stories' to try to stick closely with the website's need and target population. Everything have been realised together, using a paper-board.
+
+ Once the 2 wireframes done, the identified elements of the website/project have been separated in different tasks that could be shared among the members of the group.
+
+### Tools
 
 
 # Areas of improvement

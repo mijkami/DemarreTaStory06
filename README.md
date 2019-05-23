@@ -92,11 +92,28 @@ Dimitri a mis en place et invité tous les membres sur 2 plateformes :
 - une page de projet [Trello](https://imgur.com/PNZAdEF)
 - un serveur Discord
 
-Trello n'était pas un outil connu par tous les membres du groupe et n'aura été utilisé que de manière partielle (jugée suffisante par le groupe), permettant de suivre l'affectation et l'avancement de chacun. Les catégories/colonnes principales mises en places ont été dans l'ordre : "Backlog" => "To Do (today)" => "Doing" => "Test" => "Done".
+#### Trello
+ 
+Trello n'était pas un outil connu par tous les membres du groupe et n'aura été utilisé que de manière partielle (jugée suffisante par le groupe dans un premier temps), permettant de suivre l'affectation et l'avancement de chacun. Les catégories/colonnes principales mises en places ont été dans l'ordre : "Backlog" => "To Do (today)" => "Doing" => "Test" => "Done".
+
+#### Discord
 
 Le serveur Discord a offert au groupe un moyen commun de communication permettant de s'organiser en dehors des heures allouées à la formation, ainsi que la possibilité de discuter vocalement si besoin. Ce dernier a aussi représenté un outil de communication auquel tous les membres étaient habitués.
 
-Aucun outil de versionning n'a été utilisé : une partie des membres du groupe n'étant pas encore initiés et habitués à la manipulation de git (+ repositories, gestion des branches), il a été décidé par le groupe que le temps limité imparti et l'apparente "simplicité" du projet (vis-à-vis du nombre de pages & absence de back-end) ne permettaient pas de dédier une partie du temps à harmoniser les compétences de chacun sur ce point précis, qui aura au final été évité.
+#### Versionning
+
+Aucun outil de versionning n'a été utilisé : une partie des membres du groupe n'étant pas encore initiés et habitués à la manipulation de 'git' (+ repositories, gestion des branches) : il a été décidé par le groupe que le temps limité imparti et l'apparente "simplicité" du projet (vis-à-vis du nombre de pages & absence de back-end) ne permettaient pas de dédier une partie du temps à harmoniser les compétences de chacun sur ce point précis, qui aura au final été évité.
+
+#### Méthode agile
+
+L'initialisation avec les 'user-stories', les 'wireframes' et le l'identification et le partage des tâches a permis de démarrer comfortablement.
+
+La gestion du temps de chacun au fur et à mesure à été par contre difficile, plus particulière sur la fin où le temps imparti semblait court (ou l'évaluation / gestion du-dit temps imparfaite).
+
+Nous respections sur la première journée des temps de 'sprints' relativement courts (allant d'une à 2 heures) avec des mises au points communes sur l'avancement. Nous avons ensuite eu des difficultés à établir un temps de 'sprint', les durées et la compréhension de chacun par rapport à ces derniers étant très différente (ainsi qu'une remise en cause de leur utilité).
+
+Au final le scrum-master faisait un tour de table régulier pour connaître l'avancement de chacun et tenter de les aider (personellement ou via la mobilisation d'autres membres du groupe) quand cela semblait possible.
+
 
 
 # Amélioration
@@ -108,12 +125,6 @@ Pour le projet : les membres du groupe sont unanimes : tous étaient satisfaits 
 Pour le scrum-master : les avis varient entre "une conduite/direction appropriée" et "parfois un peu autoritaire", dernier élément ressenti par quelques membres durant le (c)rush final.
 
 À noter que recueillir une auto-évaluation est difficile dans le temps limité imparti, d'autant plus pour des avis à propos d'une personne précise (zone grise entre tact et franchise). Nous avons malgré cela tous essayé de faire preuve de franchise lors de cette micro-évaluation pour permettre aux autres d'apprendre un maximum de l'expérience vécue !
-
-### Amélioration, post-scriptum
-
-Divers axes d'amélioration pour le site :
-
-- (le temps de retrouver mes notes)
 
 
 
@@ -172,23 +183,32 @@ Young people wanting to start an apprenticeship, either with already an existing
 - Dimitri (Mijka) : scrum-master & project-leader + graphic designer (producing elements for the banner, youtube preview, logos & footer)
 
 
-# Method
-
-### Beginning
-
-After the (randomly chosen) gathering of the members of the group, the organisation have been the first topic discussed by the group. We all selected an "agile" method, Dimitri being accepted by the group to take the scrum-master role.
-
- ### Research phase
-
-Everyone took note of the requirements and needs of the project, then the group started to search examples and models of promotional website suiting the "one-page" type for 40 minutes. The goal being to differentiate the existing possibilities that could guide our approach with its examples and counterexamples.
-
- ### Wireframe
-
- After the presentation and discussion about the outcome of everyone's research, we started to realize together a "wireframe" (simplistic) version of the website, working with its mobile and desktop versions through short 'user-stories' to try to stick closely with the website's need and target population. Everything have been realised together, using a paper-board.
-
- Once the 2 wireframes done, the identified elements of the website/project have been separated in different tasks that could be shared among the members of the group.
-
 ### Tools
+
+Dimitri arranged and invited all the members on 2 platforms:
+
+- a [Trello](https://imgur.com/PNZAdEF) project page
+- a Discord server
+
+#### Trello
+
+Trello wasn't known as a tool to each member of the group and have been used only partially (its was first judged as enough usage by the members of the but that perspective changed later), allowing to follow everyone's role and progression. The main categories/columns were in order : "Backlog" => "To Do (today)" => "Doing" => "Test" => "Done".
+
+#### Discord
+
+The Discord server gave to the group a communication platform allowing to organise work between members outside of the in-site hours (needless to say, online communication is less important when working within the training center). It also allowed to communicate verbally when needed. This specific tool was known to each member of the group.
+
+#### Versionning
+
+No versionning tool (like the git/github combo) have been used : a large proportion of the group didn't learn to use one yet and wasn't familiar with the use of 'git' (including repositories and branch management) : the group concluded that the very limited given time for the project and the seemingly "simplicity" of it (regarding the number of pages needed & the absence of back-end) wouldn't allow to dedicate any time to adjust everyone's skills on that specific topic, avoided in the end.
+
+#### Agile method
+
+The beginning with the 'user-stories', 'wireframes' and the identification and sharing of tasks helped the group to start comfortably.
+
+The time management of everyone along the way have been difficult though, especially towards the end when the overall given time appeared as quite short (or rather the evaluation / management of time was lacking).
+
+In the end the scrum-master was checking everyone regularly around the table to know how was doing everyone and tried to help them (personally or by making other members participate) when possible.
 
 
 # Areas of improvement

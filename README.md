@@ -120,7 +120,7 @@ Pour le scrum-master : les avis varient entre "une conduite/direction approprié
 À noter que recueillir une auto-évaluation est difficile dans le temps limité imparti, d'autant plus pour des avis à propos d'une personne précise (zone grise entre tact et franchise). Nous avons malgré cela tous essayé de faire preuve de franchise lors de cette micro-évaluation pour permettre aux autres d'apprendre un maximum de l'expérience vécue !
 
 
-[⬆️ Retourner au Sommaire](#sommaire)
+[⬆️ Retourner au Sommaire 🇫🇷](#sommaire)
 
 
 

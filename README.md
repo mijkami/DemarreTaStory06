@@ -90,20 +90,14 @@ Dimitri a mis en place et invité tous les membres sur 2 plateformes :
 
 - une page de projet [Trello](https://imgur.com/PNZAdEF)
 - un serveur Discord
-
-#### Trello
  
 Trello n'était pas un outil connu par tous les membres du groupe et n'aura été utilisé que de manière partielle (jugée suffisante par le groupe dans un premier temps), permettant de suivre l'affectation et l'avancement de chacun. Les catégories/colonnes principales mises en places ont été dans l'ordre : "Backlog" => "To Do (today)" => "Doing" => "Test" => "Done".
 
-#### Discord
-
 Le serveur Discord a offert au groupe un moyen commun de communication permettant de s'organiser en dehors des heures allouées à la formation, ainsi que la possibilité de discuter vocalement si besoin. Ce dernier a aussi représenté un outil de communication auquel tous les membres étaient habitués.
-
-#### Versionning
 
 Aucun outil de versionning n'a été utilisé : une partie des membres du groupe n'étant pas encore initiés et habitués à la manipulation de 'git' (+ repositories, gestion des branches) : il a été décidé par le groupe que le temps limité imparti et l'apparente "simplicité" du projet (vis-à-vis du nombre de pages & absence de back-end) ne permettaient pas de dédier une partie du temps à harmoniser les compétences de chacun sur ce point précis, qui aura au final été évité.
 
-#### Méthode agile
+### Méthode agile
 
 L'initialisation avec les 'user-stories', les 'wireframes' et le l'identification et le partage des tâches a permis de démarrer comfortablement.
 
@@ -213,21 +207,16 @@ Dimitri arranged and invited all the members on 2 platforms:
 - a [Trello](https://imgur.com/PNZAdEF) project page
 - a Discord server
 
-#### Trello
 
 Trello wasn't known as a tool to each member of the group and have been used only partially (its was first judged as enough usage by the members of the but that perspective changed later), allowing to follow everyone's role and progression. The main categories/columns were in order : "Backlog" => "To Do (today)" => "Doing" => "Test" => "Done".
 
-#### Discord
-
 The Discord server gave to the group a communication platform allowing to organise work between members outside of the in-site hours (needless to say, online communication is less important when working within the training center). It also allowed to communicate verbally when needed. This specific tool was known to each member of the group.
-
-#### Versionning
 
 No versionning tool (like the git/github combo) have been used : a large proportion of the group didn't learn to use one yet and wasn't familiar with the use of 'git' (including repositories and branch management) : the group concluded that the very limited given time for the project and the seemingly "simplicity" of it (regarding the number of pages needed & the absence of back-end) wouldn't allow to dedicate any time to adjust everyone's skills on that specific topic, avoided in the end.
 
-#### Agile method
+### Agile Method
 
-The beginning with the 'user-stories', 'wireframes' and the identification and sharing of tasks helped the group to start comfortably.
+Regarding the Agile Method, the beginning with the 'user-stories', 'wireframes' and the identification and sharing of tasks helped the group to start comfortably.
 
 The time management of everyone along the way have been difficult though, especially towards the end when the overall given time appeared as quite short (or rather the evaluation / management of time was lacking).
 

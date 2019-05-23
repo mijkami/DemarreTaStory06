@@ -12,6 +12,11 @@
 
 ➡️ [Lien production (alternatif)](https://mijkami.github.io/story06/) ⬅️
 
+# Pick your language !
+
+- [🇫🇷 français](#Sommaire)
+- [🇬🇧 english](#Summary)
+
 # Sommaire
 
 - [Introduction](#Introduction)
@@ -27,7 +32,7 @@
 - **cadre** : formation "Développement web & mobile" à l'ICS de la Chambre de Commerce de Nice
 - **[groupe](#Groupe)** : groupe de 7 personnes (1/3 de la classe, 3 groupes en "concurrence")
 - **durée** : 16-20 heures allouées du 7 au 10 Mai, rendu obligatoire le 10
-- **restitution** : la restitution initiale a eu lieu le vendredi 10 Mai 2019 (le projet ici-présent a été plébiscité pour sa clarté, la mise en avant du bouton d'inscription et le rappel de la charte graphique du projet global auquel il se rattache)
+- **restitution** : la restitution initiale a eu lieu le vendredi 10 Mai 2019 (le projet ci-joint a été plébiscité pour sa clarté, la mise en avant du bouton d'inscription et le rappel de la charte graphique du projet global auquel il se rattache)
 
 
 ### Pitch initial
@@ -108,4 +113,67 @@ Pour le scrum-master : les avis varient entre "une conduite/direction approprié
 
 Divers axes d'amélioration pour le site :
 
-- (le temps de retrouver mes notes ~)
+- (le temps de retrouver mes notes)
+
+
+
+=================================================
+
+
+# Summary
+
+- [Introduction](#Introduction-🇬🇧)
+- [Group](#Group)
+- [Method](#Method)
+- [Areas of improvement](Areas-of-improvement)
+
+
+# Introduction 🇬🇧
+
+☄️Quick Project🚡 aiming at working in group to produce a website promoting apprenticeship :
+
+- **setting** : training course "Web & Mobile Developpement" taking place at the ICS within the Chamber of commerce and Industry from Nice, France
+- **[group](#group)** : group of seven (7) people (a third of the class, forming 3 different groups in "competition")
+- **time** : 16-20 hours allocated from 7th to 10th of May, delivery mandatory for the 10th
+- **delivery** : the initial delivery took place the 10th of May (the here enclosed  project have been elected for its clarity, the emphasis on the registration button and the usage of the style identity from the bigger project to which it is associated)
+
+
+### Selling points / Sales pitch
+
+"The platform's project should start later. The occasion of a bus traveling through the area can improve the visibility of our project (mainly connections) and accelerated its progression. This (parallel) project "apprenticeship's bus" starts the the 13th of May 2019."
+
+The project matches with a real demand from our training center, with real needs and very little time allowed.
+
+
+### Requirements
+
+	- "one page" type of showcasing web page
+	- target within 16-30 years old
+	- encouraging visitors to share their contact details (through a "google docs" form or an integrated one)
+	- showing the partner's logos
+	- dissociate the website's identity with the ICS / CCI style identity
+	- possibly announce and link a (future) "serious-game" ("testing values and motivation" through recreational activity)
+
+
+### Target population
+
+Young people wanting to start an apprenticeship, either with already an existing personal project, or without yet a clear idea of their objective. The goal being to promote a supporting service and to assist their project (up to starting to work in a company). There's also an idea of 3 different supporting routes leading to starting a training course.
+
+
+
+# Group
+
+- Anaëlle : design and realisation of the central registration button
+- Isabelle : central cards (diagrams0, text) and final integration
+- Radhwa : footer
+- Anthony : youtube integration + modal
+- Younès : logos & footer
+- Tim : banner & final integration
+- Dimitri (Mijka) : scrum-master & project-leader + graphic designer (producing elements for the banner, youtube preview, logos & footer)
+
+
+
+# Method
+
+
+# Areas of improvement

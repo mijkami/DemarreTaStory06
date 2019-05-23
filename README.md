@@ -189,6 +189,22 @@ Young people wanting to start an apprenticeship, either with already an existing
 - Tim : banner & final integration
 - Dimitri (Mijka) : scrum-master & project-leader + graphic designer (producing elements for the banner, youtube preview, logos & footer)
 
+# Method
+
+### Beginning
+
+After the (randomly chosen) gathering of the members of the group, the organisation have been the first topic discussed by the group. We all selected an "agile" method, Dimitri being accepted by the group to take the scrum-master role.
+
+### Research phase
+
+Everyone took note of the requirements and needs of the project, then the group started to search examples and models of promotional website suiting the "one-page" type for 40 minutes. The goal being to differentiate the existing possibilities that could guide our approach with its examples and counterexamples.
+
+### Wireframe
+
+ After the presentation and discussion about the outcome of everyone's research, we started to realize together a "wireframe" (simplistic) version of the website, working with its mobile and desktop versions through short 'user-stories' to try to stick closely with the website's need and target population. Everything have been realised together, using a paper-board.
+
+ Once the 2 wireframes done, the identified elements of the website/project have been separated in different tasks that could be shared among the members of the group.
+
 
 ### Tools
 

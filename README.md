@@ -170,7 +170,7 @@ The project matches with a real demand from our training center, with real needs
 
 ### Target population
 
-Young people wanting to start an apprenticeship, either with already an existing personal project, or without yet a clear idea of their objective. The goal being to promote a supporting service and to assist their project (up to starting to work in a company). There's also an idea of 3 different supporting routes leading to starting a training course.
+Young people wanting to start an apprenticeship, either with an already existing personal project, or without yet a clear idea of their objective. The goal being to promote a supporting service and to assist their project (up to starting to work in a company). There's also an idea of 3 different supporting routes leading to starting a training course.
 
 
 # Group

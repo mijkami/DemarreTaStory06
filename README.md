@@ -127,6 +127,9 @@ Pour le scrum-master : les avis varient entre "une conduite/direction approprié
 À noter que recueillir une auto-évaluation est difficile dans le temps limité imparti, d'autant plus pour des avis à propos d'une personne précise (zone grise entre tact et franchise). Nous avons malgré cela tous essayé de faire preuve de franchise lors de cette micro-évaluation pour permettre aux autres d'apprendre un maximum de l'expérience vécue !
 
 
+[⬆️ Retourner au Sommaire](#sommaire)
+
+
 
 ==========================================================
 ==========================================================
@@ -212,3 +215,15 @@ In the end the scrum-master was checking everyone regularly around the table to 
 
 
 # Areas of improvement
+
+At the end of the project, the members tooka (short) tume to try to analyze their experience within the group, focusing first on the group work as a whole and then looking at their relation with the scrum-master (Dimitri never assumed as much this role in the past).
+
+For the project itself : the members were unanimous on a specific point ; that they were satisfied with the outcome despite the general weariness, highlighting a unknown organisation system that was first experimented as an interesting novelty for some of them (and then discussed later differently as shown in the [Tools/Agile Method chapter](#Agile-method)) when comparing it with their past experiences.
+
+For the scrum-master : opinions vary netwee, "an appropriate direction" and "sometimes a little bit authoritative". The last element was felt by some members during the final (c)rush.
+
+It's worth noting that making a self-appraisal is difficult within a limited time, even more about stating opinions about a specific person (grey area between tactfulness and honesty). Nonetheless we all tried our best to be honest with our micro-evaluation to allow others to maximize the lessons from this experience !
+
+
+[⬆️ Go back to Summary](#summary)
+[⬆️ Pick a different language](#pick-your-language-)

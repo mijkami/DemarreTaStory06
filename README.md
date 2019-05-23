@@ -225,6 +225,6 @@ For the scrum-master : opinions vary netwee, "an appropriate direction" and "som
 It's worth noting that making a self-appraisal is difficult within a limited time, even more about stating opinions about a specific person (grey area between tactfulness and honesty). Nonetheless we all tried our best to be honest with our micro-evaluation to allow others to maximize the lessons from this experience !
 
 
-[⬆️ Go back to Summary](#summary)
+[⬆️ Go back to Summary](#summary-)
 
 [⬆️ Pick a different language](#pick-your-language-)

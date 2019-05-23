@@ -3,14 +3,9 @@
  |_____/ |______ |_____| |     \ |  |  | |______
  |    \_ |______ |     | |_____/ |  |  | |______
 </pre>   
-
 # "Démarre Ta Story ! 06"
 
 ![https://imgur.com/UsE1etg](https://tof.cx/images/2019/05/20/9eeb6b0fcb491a3de450f7ec62b2980b.png)
-
-➡️ [Screenshot / maquette](https://i.imgur.com/UsE1etg.png) ⬅️
-
-➡️ [Lien production (alternatif)](https://mijkami.github.io/story06/) ⬅️
 
 # Pick your language !
 
@@ -18,6 +13,10 @@
 - [🇬🇧 english](#Summary-)
 
 # Sommaire
+
+➡️ [Screenshot / maquette](https://i.imgur.com/UsE1etg.png) ⬅️
+
+➡️ [Lien production (alternatif)](https://mijkami.github.io/story06/) ⬅️
 
 - [Introduction](#Introduction)
 - [Groupe](#Groupe)
@@ -132,10 +131,15 @@ Pour le scrum-master : les avis varient entre "une conduite/direction approprié
 
 
 ==========================================================
+
 ==========================================================
 
 
 # Summary 🇬🇧
+
+➡️ [Screenshot / mock-up](https://i.imgur.com/UsE1etg.png) ⬅️
+
+➡️ [Production link (alternative)](https://mijkami.github.io/story06/) ⬅️
 
 - [Introduction](#Introduction-)
 - [Group](#Group)

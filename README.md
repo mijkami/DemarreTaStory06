@@ -99,6 +99,8 @@ Le serveur **Discord** a offert au groupe un moyen commun de communication perme
 
 En dernier outil commun, nous avons décidé au début d'utiliser **Bootstrap** (ayant eu une introduction dessus plus tôt la même semaine). L'outil n'était malheureusement pas maîtrisé par le groupe (le choix même si il était commun, a été apparemment non-entendu voire oublié initialement pour certains, voire abandonné complètement), ce qui aura aussi causé ses propres soucis pour harmoniser le travail à la fin.
 
+Un soupçon de **jQuery** a été mis en place, essentiellement pour quelques effets autour du bouton central.
+
 ### Méthode agile
 
 L'initialisation avec les 'user-stories', les 'wireframes' et le l'identification et le partage des tâches a permis de démarrer comfortablement.
@@ -219,6 +221,8 @@ The **Discord** server gave to the group a communication platform allowing to or
 **No versionning tool (like** the **git/github** combo) have been used : a large proportion of the group didn't learn to use one yet and wasn't familiar with the use of 'git' (including repositories and branch management) : the group concluded that the very limited given time for the project and the seemingly "simplicity" of it (regarding the number of pages needed & the absence of back-end) wouldn't allow to dedicate any time to adjust everyone's skills on that specific topic, avoided in the end.
 
 Last but not least shared tool that we used : **Bootstrap** (we all had a quick introduction about it earlier the same week). This specific tool / framework wasn't mastered yet by the group (even the choice itself wasn't seemingly understood/remembered by all of us initially, and have been left aside sometimes), which brought its own problems to standardise everything in the final 'integration' process.
+
+A dash of **jQuery** was used, mainly for some effects around the main button.
 
 
 ### Agile Method

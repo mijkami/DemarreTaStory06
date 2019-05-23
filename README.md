@@ -238,7 +238,7 @@ For the project itself : the members were unanimous on a specific point ; that t
 
 For the scrum-master : opinions vary netwee, "an appropriate direction" and "sometimes a little bit authoritative". The last element was felt by some members during the final (c)rush.
 
-Initial agreement of people on specific tasks or tools wasn't 'actual' agreement as it was forgotten and/or ignored along the path (bootstrap specifically). Chosing and confirming working tools and process may need more effective communication from both ends (that may also take the form of chosing later on together to change the initial method to adapt to the situation). Ignoring/dodging could also show a difficulty to identify and speak aloud about difficulties (team and scrum included)
+Initial agreement of people on specific tasks or tools wasn't 'actual' agreement as it was forgotten and/or ignored along the path (bootstrap specifically). Chosing and confirming working tools and process may need more effective communication from both ends (that may also take the form of chosing later on together to change the initial method to adapt to the situation). Ignoring/dodging could also show a difficulty to identify and speak aloud about difficulties (team and scrum included).
 
 It's worth noting that making a self-appraisal is difficult within a limited time, even more about stating opinions about a specific person (grey area between tactfulness and honesty). Nonetheless we all tried our best to be honest with our micro-evaluation to allow others to maximize the lessons from this experience !
 

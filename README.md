@@ -151,7 +151,7 @@ L'accord initial des membres du groupe sur les tâches spécifiques et les outil
 
 # Introduction 🇬🇧
 
-""Démarre Ta Story ! 06" (a.k.a. "Start Your Story ! 06" 
+""Démarre Ta Story ! 06" (a.k.a. "Start Your Story ! 06")
 
 ☄️Quick Project🚡 aiming at working in group to produce a website promoting apprenticeship :
 

@@ -26,6 +26,8 @@
 
 # Introduction
 
+"Démarre Ta Story ! 06"
+
 ☄️Projet Express🚡 visant à réaliser en groupe un site promouvant l'apprentissage :
 	
 - **cadre** : formation "Développement web & mobile" à l'ICS de la Chambre de Commerce de Nice
@@ -148,6 +150,8 @@ L'accord initial des membres du groupe sur les tâches spécifiques et les outil
 
 
 # Introduction 🇬🇧
+
+""Démarre Ta Story ! 06" (a.k.a. "Start Your Story ! 06" 
 
 ☄️Quick Project🚡 aiming at working in group to produce a website promoting apprenticeship :
 
